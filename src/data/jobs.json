@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1a2b3c",
+    "state": "offer",
+    "postcode": "SW1A 1AA",
+    "jobId": "JOB-001"
+  },
+  {
+    "id": "4d5e6f",
+    "state": "done",
+    "postcode": "E1 6AN",
+    "jobId": "JOB-002"
+  },
+  {
+    "id": "7g8h9i",
+    "state": "offer",
+    "postcode": "M1 1AE",
+    "jobId": "JOB-003"
+  },
+  {
+    "id": "0j1k2l",
+    "state": "done",
+    "postcode": "B1 1TB",
+    "jobId": "JOB-004"
+  }
+]
